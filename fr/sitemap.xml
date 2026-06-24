@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>./index.html</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="./index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="../en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="../sw/index.html"/>
+  </url>
+
+  <url>
+    <loc>./products.html</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="./products.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="../en/products.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="../sw/products.html"/>
+  </url>
+
+  <url>
+    <loc>./about.html</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="./about.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="../en/about.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="../sw/about.html"/>
+  </url>
+
+  <url>
+    <loc>./contact.html</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="fr" href="./contact.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="../en/contact.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="../sw/contact.html"/>
+  </url>
+
+
+  <url>
+    <loc>./product-qt4-40.html</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="../en/product-qt4-40.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="./product-qt4-40.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="../sw/product-qt4-40.html"/>
+  </url>
+  <url>
+    <loc>./product-qt4-40a.html</loc>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="../en/product-qt4-40a.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="./product-qt4-40a.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="../sw/product-qt4-40a.html"/>
+  </url>
+  <url>
+    <loc>./product-qt4-18.html</loc>
+    <url>
+        <loc>./product-nt7-10.html</loc>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <xhtml:link rel="alternate" hreflang="en" href="./product-nt7-10.html"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="../fr/product-nt7-10.html"/>
+        <xhtml:link rel="alternate" hreflang="sw" href="../sw/product-nt7-10.html"/>
+    </url>
+    <lastmod>2024-12-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="../en/product-qt4-18.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="./product-qt4-18.html"/>
+    <xhtml:link rel="alternate" hreflang="sw" href="../sw/product-qt4-18.html"/>
+  </url>
+
+</urlset>
